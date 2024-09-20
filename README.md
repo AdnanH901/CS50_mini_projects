@@ -1,1 +1,1 @@
-# CS50_mini_projects
+# CS50 Mini Projects
